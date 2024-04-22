@@ -1,2 +1,6 @@
 *.csv
 results/
+.Rproj.user
+planets.Rproj
+.Rhistory
+graphs/
